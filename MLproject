@@ -1,4 +1,4 @@
-name: sample
+name: Demo-code
 
 conda_env: conda.yaml
 

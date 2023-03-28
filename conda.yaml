@@ -1,8 +1,8 @@
-name: r"D:\ineuron_ML_ops_code\MLflow\mlflow-basic-01"
+name: Demo-code
 channels:
   - defaults
 dependencies:
-  - pip=23.0.1
-  - python=3.9.0
+  - pip
+  - python=3.7.11
   - pip:
-    - mlflow==2.2.2
+    - mlflow==1.23.1
