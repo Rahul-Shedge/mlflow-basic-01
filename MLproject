@@ -3,16 +3,8 @@ name: sample
 conda_env: conda.yaml
 
 entry_points:
-<<<<<<< HEAD
   main:
     parameters:
       param1: {type: int, default: 2}
       param2: {type: int, default: 7}
     command: "python demo.py -p1 {param1} -p2 {param2}"
-=======
-    main:
-        parameters:
-            param1: {type: int,default: 2}
-            param2: {type: int,default: 7}
-        command: "python demo.py -p1 {param1} -p2 {param2}"
->>>>>>> 1edd239dec9c0c0c6d57c8206610331cfe7faa4f
