@@ -2,7 +2,7 @@ name: sample
 channels:
   - defaults
 dependencies:
-  - pip=23.0.1
+  - pip
   - python=3.7.0
   - pip:
     - mlflow==1.23.11
