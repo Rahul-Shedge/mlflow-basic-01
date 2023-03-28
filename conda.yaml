@@ -1,4 +1,4 @@
-name: D:\ineuron_ML_ops_code\MLflow\mlflow-basic-01\env
+name: r"D:\ineuron_ML_ops_code\MLflow\mlflow-basic-01"
 channels:
   - defaults
 dependencies:
