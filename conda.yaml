@@ -1,0 +1,8 @@
+name: D:\ineuron_ML_ops_code\MLflow\mlflow-basic-01\env
+channels:
+  - defaults
+dependencies:
+  - pip=23.0.1
+  - python=3.9.0
+  - pip:
+    - mlflow==2.2.2
