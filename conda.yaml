@@ -1,4 +1,4 @@
-name: sample demo
+name: sample
 channels:
   - defaults
 dependencies:
