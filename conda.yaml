@@ -1,4 +1,4 @@
-name: r"D:\ineuron_ML_ops_code\MLflow\mlflow-basic-01"
+name: sample demo
 channels:
   - defaults
 dependencies:
